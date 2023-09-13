@@ -9,7 +9,7 @@ redirect_from:
 ---
 Aming Wu is currently a Ph.D. candidate in Computer Science and Engineering at Kyungpook National University of South Korea. He received an M.S. degree in mathematics and technology from The Education University of Hong Kong under Dr. LING, Man Ho Alpha, in 2019. He received his B.S. from Jiangxi University of Finance and Economics, China, in 2018. His main research interests include Data Mining, Machine Learning, Federated Learning, and Anomaly Detection.
 
-You can find my CV here: [Aming's Curriculum Vitae](../assets/Aming Curriculum Vitae.pdf).
+You can find my CV here: [Aming's Curriculum Vitae](../assets/Aming.pdf)
 
 [Email](mailto:wuaming@knu.ac.kr) / [Github](https://github.com/Amin-228) / [Wechat](../images/Aming.jpg) 
 
